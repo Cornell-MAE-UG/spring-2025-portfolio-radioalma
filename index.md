@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Alma Meili Ren>
 ---
 
 ## About Me
